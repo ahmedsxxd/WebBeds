@@ -1,0 +1,5 @@
+1. There are 120 Records that have booking date after check out date, which I considered an "invalid data".
+
+
+2. There are 3971 Customers with "ZERO" or "NEGATIVE".
+   Customers with zero profit tend to have "canceled" reservation.
