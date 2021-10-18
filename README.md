@@ -18,3 +18,9 @@ h. Any other observations?
 3. Prepare a PowerBI dashboard based on the raw data to make the data readable and understandable for your manager. 
 Think of what KPI`s could be important for the business to know and track. You have complete flexibility on how you will display the data.
 
+
+
+![11](https://user-images.githubusercontent.com/71445201/137795433-b9349d78-dcc5-415b-b08c-9611c49222c1.png)
+![1](https://user-images.githubusercontent.com/71445201/137795356-0ba93421-e353-40aa-b997-95b67bf634a9.png)
+![2](https://user-images.githubusercontent.com/71445201/137795362-89637b94-538a-4502-83ca-085d9609391b.png)
+![3](https://user-images.githubusercontent.com/71445201/137795370-5473cae9-6558-4ee1-ab79-22b1c49d98e2.png)
